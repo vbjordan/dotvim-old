@@ -1,0 +1,3 @@
+checksyntax.vba: call delete('/data/home/vjordan/.vim/doc/checksyntax.txt')|call delete('/data/home/vjordan/.vim/plugin/checksyntax.vim')|call delete('/data/home/vjordan/.vim/autoload/checksyntax.vim')
+align.vba: call delete('/data/home/vjordan/.vim/plugin/AlignPlugin.vim')|call delete('/data/home/vjordan/.vim/plugin/AlignMapsPlugin.vim')|call delete('/data/home/vjordan/.vim/plugin/cecutil.vim')|call delete('/data/home/vjordan/.vim/doc/Align.txt')|call delete('/data/home/vjordan/.vim/autoload/Align.vim')|call delete('/data/home/vjordan/.vim/autoload/AlignMaps.vim')
+delimitMate-2.6.vba: call delete('/data/home/vjordan/.vim/plugin/delimitMate.vim')|call delete('/data/home/vjordan/.vim/autoload/delimitMate.vim')|call delete('/data/home/vjordan/.vim/doc/delimitMate.txt')

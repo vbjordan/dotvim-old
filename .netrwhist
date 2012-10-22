@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/data/home/vjordan/.vim'
+let g:netrw_dirhist_2='/data/home/vjordan/public_html/mobile'
+let g:netrw_dirhist_3='/data/home/vjordan/.vim/colors'
+let g:netrw_dirhist_4='/data/home/vjordan/tmp/grep.vim'
+let g:netrw_dirhist_5='/data/home/vjordan/public_html/cobrand_merge/include/UserProfile'
+let g:netrw_dirhist_6='/data/home/vjordan/public_html/cobrand_merge'
